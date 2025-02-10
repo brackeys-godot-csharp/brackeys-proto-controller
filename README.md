@@ -1,3 +1,5 @@
+**Based on Brackeys solution, will be rewritten in C# over the next days.**
+
 # Proto Controller
 Simple first-person Character Controller for prototyping games in Godot.
 
